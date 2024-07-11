@@ -19,7 +19,7 @@ const Display = ({
       </Text>
 
       <Text color="gray.400" fontSize="xs">
-        Market rates as of {queryDate}, {queryTime}
+        Market rates as of {queryDate}, {queryTime}.
       </Text>
     </Box>
   );
